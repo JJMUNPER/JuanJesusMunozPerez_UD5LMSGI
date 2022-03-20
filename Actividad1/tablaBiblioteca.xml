@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="tablaBiblioteca.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>240</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <editor>Gemma Rovira</editor>
+        <isbn>341-65-6323-453-1</isbn>
+        <precio>9.60</precio>
+        <numPaginas>175</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El temor de un hombre sabio</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <editor>Gemma Rovira</editor>
+        <isbn>215-24-411-678-1</isbn>
+        <precio>9.50</precio>
+        <numPaginas>220</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Las intermitencias de la muerte</titulo>
+        <autor>Saramago</autor>
+        <editor>Debolsillo</editor>
+        <isbn>221-90-221-3450-1</isbn>
+        <precio>12.50</precio>
+        <numPaginas>170</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Todos los nombres</titulo>
+        <autor>Saramago</autor>
+        <editor>Debolsillo</editor>
+        <isbn>221-90-221-7791-1</isbn>
+        <precio>10.50</precio>
+        <numPaginas>170</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El arte de la guerra</titulo>
+        <autor>Sun Tzu</autor>
+        <editor>Plutón Ediciones</editor>
+        <isbn>220-21-444-3450-1</isbn>
+        <precio>16.20</precio>
+        <numPaginas>126</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El resplandor</titulo>
+        <autor>Stephen King</autor>
+        <editor>Anaya</editor>
+        <isbn>410-88-444-3009-1</isbn>
+        <precio>60.50</precio>
+        <numPaginas>643</numPaginas>
+    </libro>
+    <libro>
+        <titulo>It</titulo>
+        <autor>Stephen King</autor>
+        <editor>Plutón Ediciones</editor>
+        <isbn>245-66-660-3450-1</isbn>
+        <precio>16.20</precio>
+        <numPaginas>126</numPaginas>
+    </libro>
+</libreria>

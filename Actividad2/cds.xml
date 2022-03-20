@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<CDs>
+    <CD>
+        <titulo> Thriller </titulo>
+        <artista> Michael Jackson </artista>
+        <cancion duracion="363"> Wanna be Startin' Something </cancion>
+        <cancion duracion="357"> Thriller </cancion>
+        <cancion duracion="259"> Beat it </cancion>
+        <cancion duracion="294"> Billie Jean </cancion>
+        <cancion duracion="245"> Human Nature </cancion>
+        <sello> Epic </sello>
+        <año> 1982 </año>
+    </CD>
+    <CD>
+        <titulo> Colores </titulo>
+        <artista> J.Balvin </artista>
+        <cancion duracion="313"> Ella </cancion>
+        <cancion duracion="320"> Tu </cancion>
+        <cancion duracion="212"> Quisiera yo </cancion>
+        <cancion duracion="256"> Mami </cancion>
+        <cancion duracion="221"> Papi </cancion>
+        <sello> Sony </sello>
+        <año> 2018 </año>
+    </CD>
+    <CD>
+        <titulo> The Bodyguard</titulo>
+        <artista> Whitney Houston </artista>
+        <cancion duracion="290"> I have nothing </cancion>
+        <cancion duracion="286"> I'm every woman </cancion>
+        <cancion duracion="271"> I will always Love you </cancion>
+        <cancion duracion="264"> Run to you </cancion>
+        <cancion duracion="188"> Queen of the night </cancion>
+        <sello> Arista </sello>
+        <año> 1992 </año>
+    </CD>
+    <CD>
+        <titulo> The Wall </titulo>
+        <artista> Pink Floyd </artista>
+        <cancion duracion="298"> In the flesh </cancion>
+        <cancion duracion="146"> The thin ice </cancion>
+        <cancion duracion="334"> Mother </cancion>
+        <cancion duracion="130"> Empty Spaces </cancion>
+        <cancion duracion="248"> Don't leave me now </cancion>
+        <sello>Columbia Records</sello>
+        <año> 1979 </año>
+    </CD>
+    <CD>
+        <titulo> Los dioses </titulo>
+        <artista>Anuel AA</artista>
+        <cancion duracion="228"> Yo </cancion>
+        <cancion duracion="223"> Real hasta la muerte </cancion>
+        <cancion duracion="250"> Mami </cancion>
+        <cancion duracion="242"> Tu </cancion>
+        <cancion duracion="285"> Nosotros </cancion>
+        <sello>Luian</sello>
+        <año> 2019 </año>
+    </CD>
+    <CD>
+        <titulo> Hotel California </titulo>
+        <artista> Eagles </artista>
+        <cancion duracion="390"> Hotel California </cancion>
+        <cancion duracion="304"> New kid in town </cancion>
+        <cancion duracion="286"> Live in the fast lane </cancion>
+        <cancion duracion="295"> Wasted time </cancion>
+        <cancion duracion="251"> Victims of love </cancion>
+        <sello> Asylum Records </sello>
+        <año> 1976 </año>
+    </CD>
+    <CD>
+        <titulo> Tyga </titulo>
+        <artista> Bee Gees </artista>
+        <cancion duracion="308"> Tragedy </cancion>
+        <cancion duracion="298"> Too much heaven </cancion>
+        <cancion duracion="253"> Love you inside out </cancion>
+        <cancion duracion="247"> Reaching out </cancion>
+        <cancion duracion="401"> Stop </cancion>
+        <sello> Polydor </sello>
+        <año> 1979 </año>
+    </CD>
+    <CD>
+        <titulo> Maluma </titulo>
+        <artista> Papi Juancho </artista>
+        <cancion duracion="271"> Mami Rica </cancion>
+        <cancion duracion="201"> Boquino </cancion>
+        <cancion duracion="230"> Nosotros </cancion>
+        <cancion duracion="266"> Dejame </cancion>
+        <cancion duracion="406"> Joputa </cancion>
+        <sello> Sony </sello>
+        <año> 2015 </año>
+    </CD>
+    <CD>
+        <titulo> Metallica </titulo>
+        <artista> Metallica </artista>
+        <cancion duracion="329"> Ender Sandman </cancion>
+        <cancion duracion="324"> Sad but True </cancion>
+        <cancion duracion="227"> Holier than Thou </cancion>
+        <cancion duracion="386"> The Unforgiven </cancion>
+        <cancion duracion="256"> Or Wolf and Man </cancion>
+        <sello> Elektra Records </sello>
+        <año> 1991 </año>
+    </CD>
+    <CD>
+        <titulo> Quisiera ella </titulo>
+        <artista> Manuel Carrasco </artista>
+        <cancion duracion="185"> Mejor solo </cancion>
+        <cancion duracion="155"> Con ela </cancion>
+        <cancion duracion="203"> Digale </cancion>
+        <cancion duracion="209"> Me siento mejor </cancion>
+        <cancion duracion="184"> Dimelo </cancion>
+        <sello> Universal </sello>
+        <año> 2012 </año>
+    </CD>
+</CDs>
